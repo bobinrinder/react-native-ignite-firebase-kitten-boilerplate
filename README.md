@@ -22,8 +22,8 @@ Before getting started, make surer you are setup for React Native, Yarn and that
 
 ### Step 1 - Download and Install
 
-Clone this repo with `git clone git@github.com:bobinrinder/rnifkb.git`
-Run `cd rnifkb && yarn` to enter root project folder and install required modules
+Clone this repo with `git clone git@github.com:bobinrinder/react-native-ignite-firebase-kitten-boilerplate.git`
+Run `cd react-native-ignite-firebase-kitten-boilerplate && yarn` to enter root project folder and install required modules
 
 ### Step 2 - Enable Email Signup
 
